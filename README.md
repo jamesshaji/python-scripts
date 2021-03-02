@@ -1,2 +1,2 @@
 # python-scripts
-Python scripts to automate activities
+Collection of Python scripts to automate repetitive activities
